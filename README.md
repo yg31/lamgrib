@@ -16,5 +16,5 @@ The validation tests are splitted in two parts:
 - validation of geographical domain (section 3) - metadata
 - validation of data encoding (section 5 and 7) - encoding
 
-The tests were performed using a modified version of NCEP Wgrib2 (the modificaions were collected
-into the wgrib2_patch/wgrib2_2.0.5_LAM.diff file) and Eccodes (branch feature/MeteoFrance_lamOMM) 
+The tests were performed using a modified version of NCEP Wgrib2 (the modifications were collected
+into the wgrib2_patch/wgrib2_2.0.5_LAM.diff file) and Eccodes (branch feature/MeteoFrance_lamOMM).
